@@ -1,0 +1,18 @@
+title: Hanyoung Nux Việt Nam
+description: Kho nội dung kỹ thuật về thiết bị tự động hóa công nghiệp Hanyoung Nux
+lang: vi
+theme: minima
+
+markdown: kramdown
+highlighter: rouge
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
