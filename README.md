@@ -27,8 +27,8 @@ Kho nội dung kỹ thuật về thiết bị tự động hóa công nghiệp H
 
 Hanyoung Nux là thương hiệu thiết bị tự động hóa công nghiệp đến từ Hàn Quốc. Sản phẩm bao gồm bộ đếm/định thời, cảm biến, relay, bộ điều khiển nhiệt độ và các thiết bị tự động hóa khác.
 
-📞 Hotline: [Số điện thoại]  
-🌐 Website: [Website]
+📞 Hotline: [0909193674]  
+🌐 Website: [www.hanyoungnux.com]
 
 ---
 
